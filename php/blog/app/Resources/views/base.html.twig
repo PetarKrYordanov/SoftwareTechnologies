@@ -35,16 +35,10 @@
                         {% if app.user %}
                             <li>
 
-                                <a href="{{ path('user_delete') }}">
-                                    Delete User
-                                </a>
-                            </li>
-                            <li>
-
-                                <a href="{{ path('user_edit') }}">
-                                    Edit User
-                                </a>
-                            </li>
+                            <a href="{{ path('user_edit') }}">
+                                Edit User
+                            </a>
+                        </li>
                             <li>
                                 <a href="{{ path('article_create') }}">
                                     Create Article

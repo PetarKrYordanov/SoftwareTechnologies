@@ -48,7 +48,7 @@ class User implements UserInterface
     /**
      * @var ArrayCollection
      * .
-     * @ORM\OneToMany(targetEntity="SoftUniBlogBundle\Entity\Article", mappedBy="author", cascade={"persist", "remove"})
+     * @ORM\OneToMany(targetEntity="SoftUniBlogBundle\Entity\Article", mappedBy="author")
      */
     private $articles;
 

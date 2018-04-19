@@ -55,8 +55,8 @@ module.exports = {
             include: [{
                 model:User
             }]
-        }).then(article=>{
-            if (article===null){
+        }).then(article=> {
+            if (article===null) {
                 throw  new Error('Article not fount: '+ articleId);
             }
             console.log(article);

@@ -1,0 +1,12 @@
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\bin\Debug\netcoreapp2.0\blog.deps.json
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\bin\Debug\netcoreapp2.0\blog.runtimeconfig.json
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\bin\Debug\netcoreapp2.0\blog.runtimeconfig.dev.json
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\bin\Debug\netcoreapp2.0\blog.dll
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.csprojResolveAssemblyReference.cache
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.csproj.CoreCompileInputs.cache
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.AssemblyInfoInputs.cache
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.AssemblyInfo.cs
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\bin\Debug\netcoreapp2.0\blog.pdb
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.dll
+F:\projects\SoftwareTechnologies\CSharp\blog\blog\obj\Debug\netcoreapp2.0\blog.pdb

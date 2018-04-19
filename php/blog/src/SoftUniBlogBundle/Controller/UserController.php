@@ -18,14 +18,13 @@ class UserController extends Controller
      * @param Request $request
      * @return \Symfony\Component\HttpFoundation\Response
      */
-    public function registerAction(Request $request)
-    {
+    public function registerAction(Request $request){
         $user = new User();
         $form = $this->createForm(UserType::class, $user);
 
         $form->handleRequest($request);
 
-        if ($form->isSubmitted() && $form->isValid()) {
+        if ($form->isSubmitted() && $form->isValid()){
 
             $password = $this->get('security.password_encoder')
                 ->encodePassword($user, $user->getPassword());
@@ -40,7 +39,7 @@ class UserController extends Controller
 
         }
         return $this->render("user/register.html.twig",
-            array('form' => $form->createView())
+            array('form'=>$form->createView())
         );
 
     }
@@ -52,7 +51,7 @@ class UserController extends Controller
     public function profileAction()
     {
         $user = $this->getUser();
-        return $this->render("user/profile.html.twig", ['user' => $user]);
+        return $this->render("user/profile.html.twig", ['user'=>$user]);
     }
 
     /**
@@ -60,10 +59,9 @@ class UserController extends Controller
      * @param Request $request
      * @return \Symfony\Component\HttpFoundation\Response
      */
-    public function editAction(Request $request)
-    {
+    public function editAction(Request $request){
 
-        $user = $this->getUser();
+        $user=$this->getUser();
 
 
         $form = $this->createForm(UserType::class, $user);
@@ -78,37 +76,9 @@ class UserController extends Controller
 
             return $this->redirectToRoute('blog_index');
         }
-        return $this->render("user/edit.html.twig", ['user' => $user, 'form' => $form->createView()]
-        );
+        return $this->render("user/edit.html.twig",  ['user'=>$user ,'form'=>$form->createView()]
+    );
+
     }
 
-    /**
-     * @Route("/user/delete", name="user_delete")
-     * @param Request $request
-     *
-     *@return \Symfony\Component\HttpFoundation\Response
-     */
-    public function deleteUser(Request $request)
-    {
-        $user = $this->getUser();
-        $id = $user->getId();
-
-        $form = $this->createForm(UserType::class, $user);
-        $form->handleRequest($request);
-
-
-        if ($form->isSubmitted() && $form->isValid()) {
-
-            $em = $this
-                ->getDoctrine()
-                ->getManager();
-            $em->remove($user);
-            $em->flush();
-
-            return $this->render('security/login.html.twig');
-        }
-        return $this->render('user/delete.html.twig',
-            ['user' => $user, 'form' => $form->createView()]
-        );
-    }
 }
