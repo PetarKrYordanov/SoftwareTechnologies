@@ -1,0 +1,11 @@
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojResolveAssemblyReference.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation2\CSharp\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb

@@ -1,0 +1,11 @@
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojResolveAssemblyReference.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation3\CSharp\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
