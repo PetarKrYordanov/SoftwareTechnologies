@@ -1,0 +1,11 @@
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.deps.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.dev.json
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.pdb
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csprojResolveAssemblyReference.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csproj.CoreCompileInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfoInputs.cache
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfo.cs
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.dll
+F:\projects\SoftwareTechnologies\exams\ExamPreparation4\CSharp\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.pdb
